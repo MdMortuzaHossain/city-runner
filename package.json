@@ -1,0 +1,8 @@
+{
+  "name": "city-runner",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An original canvas city runner with Bengali reactions",
+  "scripts": { "test": "node --test tests.mjs" }
+}
